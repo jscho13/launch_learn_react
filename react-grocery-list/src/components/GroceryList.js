@@ -14,11 +14,9 @@ class GroceryList extends React.Component {
     });
 
     return(
-      <div>
-        <ul>
-          {groceryItems}
-        </ul>
-      </div>
+      <ul>
+        {groceryItems}
+      </ul>
     );
 
   }
