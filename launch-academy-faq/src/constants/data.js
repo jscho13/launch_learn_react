@@ -1,7 +1,7 @@
 const data = [
   {
     id: 1,
-    question: 'What is Launch Academy?',
+    question: 'Do I exist?',
     answer: 'Launch Academy is a 10-week, immersive bootcamp taking eager learners with little to no coding experience and giving them the tools to add value as a junior contributor to a software engineering team'
   },
   {
